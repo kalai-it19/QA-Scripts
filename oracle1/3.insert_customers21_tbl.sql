@@ -1,1 +1,1 @@
-INSERT INTO customers2 (customer_id , customer_name, city) VALUES (4, 'Test1', 'seattle');
+INSERT INTO users (user_id , user_name, city) VALUES (4, 'Test1', 'seattle');
