@@ -1,6 +1,5 @@
-CREATE TABLE Customers2
-( user_id number(10) NOT NULL,  
-  user_name varchar(50) NOT NULL,  
-  city varchar(50),
-  state1 varchar(50)   
-);  
+CREATE TABLE customers2
+( customer_id number(10) NOT NULL,  
+  customer_name varchar2(50) NOT NULL,  
+  city varchar2(50)  
+);   
