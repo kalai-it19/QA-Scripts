@@ -1,1 +1,1 @@
-DROP TABLE Customers2
+DROP TABLE customers2
