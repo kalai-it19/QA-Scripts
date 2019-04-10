@@ -1,1 +1,2 @@
-DROP TABLE customers2;
+DELETE from customers2
+WHERE city in ('Bothell', 'Bellevue');
