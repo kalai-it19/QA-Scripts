@@ -1,2 +1,2 @@
-DELETE from users4
+DELETE from users5
 WHERE city in ('Bellevue');
