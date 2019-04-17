@@ -1,4 +1,4 @@
-CREATE TABLE Customers1
+CREATE TABLECustomers1
 ( user_id INT,  
   user_name varchar(50) NOT NULL,  
   city varchar(50),
