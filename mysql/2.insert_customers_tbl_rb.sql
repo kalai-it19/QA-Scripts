@@ -1,1 +1,1 @@
-DELETE FROM Customers WHERE City = 'Bothell';
+DELETE FROM Customers WHERE city = 'Bothell';
