@@ -1,2 +1,2 @@
 DELETE from Customers3
-WHERE city in ('Bothell', 'Kirkland');
+WHERE city in ('Kirkland');
