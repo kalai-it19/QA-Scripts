@@ -1,4 +1,4 @@
 INSERT INTO dbo.Items1
-(employee_id, last_name, first_name)
+(ProductID, ProductName,  Price money, ProductDescription))
 VALUES
-(10, 'Anderson', 'Sarah');
+(1, 'KeyBoard', '56$', "for desktop computer");
